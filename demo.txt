@@ -1,1 +1,7 @@
 Hello people
+pipeline{
+   agent
+        steps}
+
+Test env
+
