@@ -3,5 +3,3 @@ pipeline{
    agent
         steps}
 
-Test env
-
